@@ -40,7 +40,7 @@ streamlit run app.py
 
 ## 📊 Results
 - **Model**: PubMedBERT (base-uncased)
-- **Accuracy**: ~56% (Final RAG Pipeline)
+- **Accuracy**: 68.00% (Final Advanced RAG System)
 - **Frameworks**: Transformers, FAISS, PyTorch, Streamlit
 
 ---
