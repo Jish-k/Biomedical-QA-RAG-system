@@ -1,0 +1,18 @@
+# Large files and directories
+results/
+src/models/
+
+# macOS files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+env/
