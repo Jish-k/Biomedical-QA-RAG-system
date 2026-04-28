@@ -2,7 +2,7 @@
 
 This repository contains a Deep Learning project for **Biomedical Question Answering**. The system leverages a RAG pipeline to provide accurate answers to medical queries by retrieving relevant research context before classification.
 
-## 🚀 Project Overview
+## Project Overview
 
 The core objective is to determine if domain-specific models (PubMedBERT) combined with retrieval techniques outperform standard BERT baselines in the medical domain.
 
@@ -44,4 +44,4 @@ streamlit run app.py
 - **Frameworks**: Transformers, FAISS, PyTorch, Streamlit
 
 ---
-*Developed as a Major Project for Deep Learning Course (2nd Semester).*
+*Developed By JISHNU K For BioMedical QA.*
